@@ -32,4 +32,7 @@ Sales prediction model featuring:
 ---
 
 ## ✍️ Autor | Author  
-*(Same contact template)*  
+Victor Hugo B. Soares
+📧 [E-mail - contatovictorhugosoares@gmail.com](contatovictorhugosoares@gmail.com)
+🌐 [LinkedIn](https://linkedin.com/in/ovitelas)
+📞 [Telefone(WhatsApp) +55 11 964628356](https://wa.me/+5511964628356)
