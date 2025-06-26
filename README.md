@@ -8,8 +8,8 @@
 
 A data science project that demonstrates the use of a simple linear regression model to predict product sales based on advertising budget. This project showcases data handling, model training, evaluation, and visualization skills.
 
-![Sales Prediction Plot](placeholder_for_plot_image.png)
-*(You can replace the line above with a screenshot of the generated plot)*  
+![Sales Prediction Plot](assets/Sales%20Prediction%20TV%20Advertising%20Budget.png)
+  
 
 ---
 
@@ -76,10 +76,10 @@ Ensure you have Python 3 installed on your system. You can download it from [pyt
 
 1.  **Clone the repository:**
    
-    git clone https://github.com/your-username/predicao-vendas.git
+    git clone https://github.com/ovitelas/predicao-vendas.git
     cd predicao-vendas
     
-    *(Replace `your-username` with your actual GitHub username)*
+   
 
 2.  **Create a virtual environment (recommended):**
     
@@ -109,8 +109,9 @@ The script will:
 
 ---
 
-## 📞 Contact
+✍️ Author | Autor
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
-
-Project Link: [https://github.com/your-username/predicao-vendas](https://github.com/your-username/predicao-vendas)
+Victor Hugo B. Soares
+📧 [E-mail - contatovictorhugosoares@gmail.com](contatovictorhugosoares@gmail.com)
+🌐 [LinkedIn](https://linkedin.com/in/ovitelas)
+📞 [Telefone(WhatsApp) +55 11 964628356](https://wa.me/+5511964628356)
