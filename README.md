@@ -10,7 +10,7 @@ A data science project that demonstrates the use of a simple linear regression m
 
 ![Sales Prediction Plot](placeholder_for_plot_image.png)
 *(You can replace the line above with a screenshot of the generated plot)*  
-
+  
 ---
 
 ## 📖 Table of Contents
