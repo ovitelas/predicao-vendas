@@ -1,11 +1,11 @@
-# Predição de Vendas com Regressão Linear
+# 🇧🇷 Predição de Vendas com Regressão Linear
 
 ![Python](https://img.shields.io/badge/python-3.13-blue.svg)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-latest-orange.svg)
 ![Pandas](https://img.shields.io/badge/pandas-latest-blue.svg)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-latest-orange.svg)
 
-🇧🇷 Um projeto de ciência de dados que demonstra o uso de um modelo de regressão linear simples para prever vendas de produtos com base no orçamento de publicidade. Este projeto mostra habilidades de manipulação de dados, treinamento de modelos, avaliação e visualização.
+ Um projeto de ciência de dados que demonstra o uso de um modelo de regressão linear simples para prever vendas de produtos com base no orçamento de publicidade. Este projeto mostra habilidades de manipulação de dados, treinamento de modelos, avaliação e visualização.
 
 ![Gráfico de Predição de Vendas](assets/Sales%20Prediction%20TV%20Advertising%20Budget.png)
 
@@ -115,14 +115,14 @@ Victor Hugo B. Soares
 📞 [Telefone(WhatsApp) +55 11 964628356](https://wa.me/+5511964628356)
 
 
-# Sales Prediction with Linear Regression
+# 🇺🇸 Sales Prediction with Linear Regression
 
 ![Python](https://img.shields.io/badge/python-3.13-blue.svg)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-latest-orange.svg)
 ![Pandas](https://img.shields.io/badge/pandas-latest-blue.svg)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-latest-orange.svg)
 
-🇺🇸 A data science project that demonstrates the use of a simple linear regression model to predict product sales based on advertising budget. This project showcases data handling, model training, evaluation, and visualization skills.
+ A data science project that demonstrates the use of a simple linear regression model to predict product sales based on advertising budget. This project showcases data handling, model training, evaluation, and visualization skills.
 
 ![Sales Prediction Plot](assets/Sales%20Prediction%20TV%20Advertising%20Budget.png)
   
