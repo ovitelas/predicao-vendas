@@ -9,7 +9,7 @@
 A data science project that demonstrates the use of a simple linear regression model to predict product sales based on advertising budget. This project showcases data handling, model training, evaluation, and visualization skills.
 
 ![Sales Prediction Plot](placeholder_for_plot_image.png)
-*(You can replace the line above with a screenshot of the generated plot)*
+*(You can replace the line above with a screenshot of the generated plot)*  
 
 ---
 
