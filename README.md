@@ -1,4 +1,4 @@
-# 🇧🇷 Predição de Vendas com Regressão Linear
+# Predição de Vendas com Regressão Linear
 
 ![Python](https://img.shields.io/badge/python-3.13-blue.svg)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-latest-orange.svg)
